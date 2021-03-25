@@ -1,0 +1,13 @@
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\bin\Debug\netcoreapp3.1\Module15Practice.exe
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\bin\Debug\netcoreapp3.1\Module15Practice.deps.json
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\bin\Debug\netcoreapp3.1\Module15Practice.runtimeconfig.json
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\bin\Debug\netcoreapp3.1\Module15Practice.runtimeconfig.dev.json
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\bin\Debug\netcoreapp3.1\Module15Practice.dll
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\bin\Debug\netcoreapp3.1\Module15Practice.pdb
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\obj\Debug\netcoreapp3.1\Module15Practice.csprojAssemblyReference.cache
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\obj\Debug\netcoreapp3.1\Module15Practice.AssemblyInfoInputs.cache
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\obj\Debug\netcoreapp3.1\Module15Practice.AssemblyInfo.cs
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\obj\Debug\netcoreapp3.1\Module15Practice.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\obj\Debug\netcoreapp3.1\Module15Practice.dll
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\obj\Debug\netcoreapp3.1\Module15Practice.pdb
+D:\VS_Projects\Module15Practice\Module15Practice\Module15Practice\obj\Debug\netcoreapp3.1\Module15Practice.genruntimeconfig.cache
